@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "coffees",
+      "image": "coffee1.jpg",
+      "name": "Ghana Coffee",
+      "price": 125,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima, nihil minus rem sapiente cupiditate nam soluta odit, laborum iure ex libero deleniti quos illum numquam eligendi laboriosam commodi natus, laudantium atque cumque ratione rerum possimus amet. Voluptatibus, nesciunt? Asperiores optio rerum totam in perferendis quisquam? Corporis iusto, quasi corrupti cupiditate ut magni cum nemo? Necessitatibus aspernatur facere nesciunt molestias iste voluptas eaque est ea? Ea optio, minus pariatur voluptates inventore nostrum porro temporibus nam modi culpa doloremque at tenetur dignissimos rerum commodi fugiat impedit, quidem deserunt debitis sed nulla mollitia dolorum! Doloremque veniam ipsa eos voluptatum placeat esse quasi eius?"
+    },
+    {
+      "id": "2",
+      "category": "coffees",
+      "image": "coffee2.jpg",
+      "name": "Argentina Coffee",
+      "price": 130,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima, nihil minus rem sapiente cupiditate nam soluta odit, laborum iure ex libero deleniti quos illum numquam eligendi laboriosam commodi natus, laudantium atque cumque ratione rerum possimus amet. Voluptatibus, nesciunt? Asperiores optio rerum totam in perferendis quisquam? Corporis iusto, quasi corrupti cupiditate ut magni cum nemo? Necessitatibus aspernatur facere nesciunt molestias iste voluptas eaque est ea? Ea optio, minus pariatur voluptates inventore nostrum porro temporibus nam modi culpa doloremque at tenetur dignissimos rerum commodi fugiat impedit, quidem deserunt debitis sed nulla mollitia dolorum! Doloremque veniam ipsa eos voluptatum placeat esse quasi eius?"
+    },
+    {
+      "id": "3",
+      "category": "coffees",
+      "image": "coffee3.jpg",
+      "name": "American Coffee",
+      "price": 140,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima, nihil minus rem sapiente cupiditate nam soluta odit, laborum iure ex libero deleniti quos illum numquam eligendi laboriosam commodi natus, laudantium atque cumque ratione rerum possimus amet. Voluptatibus, nesciunt? Asperiores optio rerum totam in perferendis quisquam? Corporis iusto, quasi corrupti cupiditate ut magni cum nemo? Necessitatibus aspernatur facere nesciunt molestias iste voluptas eaque est ea? Ea optio, minus pariatur voluptates inventore nostrum porro temporibus nam modi culpa doloremque at tenetur dignissimos rerum commodi fugiat impedit, quidem deserunt debitis sed nulla mollitia dolorum! Doloremque veniam ipsa eos voluptatum placeat esse quasi eius?"
+    },
+    {
+      "id": "4",
+      "category": "coffees",
+      "image": "coffee4.jpg",
+      "name": "German Coffee",
+      "price": 120,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima, nihil minus rem sapiente cupiditate nam soluta odit, laborum iure ex libero deleniti quos illum numquam eligendi laboriosam commodi natus, laudantium atque cumque ratione rerum possimus amet. Voluptatibus, nesciunt? Asperiores optio rerum totam in perferendis quisquam? Corporis iusto, quasi corrupti cupiditate ut magni cum nemo? Necessitatibus aspernatur facere nesciunt molestias iste voluptas eaque est ea? Ea optio, minus pariatur voluptates inventore nostrum porro temporibus nam modi culpa doloremque at tenetur dignissimos rerum commodi fugiat impedit, quidem deserunt debitis sed nulla mollitia dolorum! Doloremque veniam ipsa eos voluptatum placeat esse quasi eius?"
+    },
+    {
+      "id": "5",
+      "category": "coffees",
+      "image": "coffee5.jpg",
+      "name": "Brazilian Coffee",
+      "price": 145,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima, nihil minus rem sapiente cupiditate nam soluta odit, laborum iure ex libero deleniti quos illum numquam eligendi laboriosam commodi natus, laudantium atque cumque ratione rerum possimus amet. Voluptatibus, nesciunt? Asperiores optio rerum totam in perferendis quisquam? Corporis iusto, quasi corrupti cupiditate ut magni cum nemo? Necessitatibus aspernatur facere nesciunt molestias iste voluptas eaque est ea? Ea optio, minus pariatur voluptates inventore nostrum porro temporibus nam modi culpa doloremque at tenetur dignissimos rerum commodi fugiat impedit, quidem deserunt debitis sed nulla mollitia dolorum! Doloremque veniam ipsa eos voluptatum placeat esse quasi eius?"
+    },
+    {
+      "id": "6",
+      "category": "coffees",
+      "image": "coffee6.jpg",
+      "name": "Spanish Coffee",
+      "price": 125,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima, nihil minus rem sapiente cupiditate nam soluta odit, laborum iure ex libero deleniti quos illum numquam eligendi laboriosam commodi natus, laudantium atque cumque ratione rerum possimus amet. Voluptatibus, nesciunt? Asperiores optio rerum totam in perferendis quisquam? Corporis iusto, quasi corrupti cupiditate ut magni cum nemo? Necessitatibus aspernatur facere nesciunt molestias iste voluptas eaque est ea? Ea optio, minus pariatur voluptates inventore nostrum porro temporibus nam modi culpa doloremque at tenetur dignissimos rerum commodi fugiat impedit, quidem deserunt debitis sed nulla mollitia dolorum! Doloremque veniam ipsa eos voluptatum placeat esse quasi eius?"
+    },
+    {
+      "id": "7",
+      "category": "coffees",
+      "image": "coffee7.jpg",
+      "name": "Italian Coffee",
+      "price": 100,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima, nihil minus rem sapiente cupiditate nam soluta odit, laborum iure ex libero deleniti quos illum numquam eligendi laboriosam commodi natus, laudantium atque cumque ratione rerum possimus amet. Voluptatibus, nesciunt? Asperiores optio rerum totam in perferendis quisquam? Corporis iusto, quasi corrupti cupiditate ut magni cum nemo? Necessitatibus aspernatur facere nesciunt molestias iste voluptas eaque est ea? Ea optio, minus pariatur voluptates inventore nostrum porro temporibus nam modi culpa doloremque at tenetur dignissimos rerum commodi fugiat impedit, quidem deserunt debitis sed nulla mollitia dolorum! Doloremque veniam ipsa eos voluptatum placeat esse quasi eius?"
+    },
+    {
+      "id": "8",
+      "category": "coffees",
+      "image": "coffee8.jpg",
+      "name": "Chinese Coffee",
+      "price": 200,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima, nihil minus rem sapiente cupiditate nam soluta odit, laborum iure ex libero deleniti quos illum numquam eligendi laboriosam commodi natus, laudantium atque cumque ratione rerum possimus amet. Voluptatibus, nesciunt? Asperiores optio rerum totam in perferendis quisquam? Corporis iusto, quasi corrupti cupiditate ut magni cum nemo? Necessitatibus aspernatur facere nesciunt molestias iste voluptas eaque est ea? Ea optio, minus pariatur voluptates inventore nostrum porro temporibus nam modi culpa doloremque at tenetur dignissimos rerum commodi fugiat impedit, quidem deserunt debitis sed nulla mollitia dolorum! Doloremque veniam ipsa eos voluptatum placeat esse quasi eius?"
+    },
+    {
+      "id": "9",
+      "category": "coffees",
+      "image": "coffee9.jpg",
+      "name": "Russian Coffee",
+      "price": 180,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima, nihil minus rem sapiente cupiditate nam soluta odit, laborum iure ex libero deleniti quos illum numquam eligendi laboriosam commodi natus, laudantium atque cumque ratione rerum possimus amet. Voluptatibus, nesciunt? Asperiores optio rerum totam in perferendis quisquam? Corporis iusto, quasi corrupti cupiditate ut magni cum nemo? Necessitatibus aspernatur facere nesciunt molestias iste voluptas eaque est ea? Ea optio, minus pariatur voluptates inventore nostrum porro temporibus nam modi culpa doloremque at tenetur dignissimos rerum commodi fugiat impedit, quidem deserunt debitis sed nulla mollitia dolorum! Doloremque veniam ipsa eos voluptatum placeat esse quasi eius?"
+    }
+  ],
+  "shippingAddress": []
+}
